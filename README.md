@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**daniil-trusov/daniil-trusov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there, I'm Daniil! 👋
+🎨 Frontend developer | 🚀 Fullstack enthusiast | 🔧 Former QA Engineer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+💡 I love building maintainable and reusable components — but I enjoy crafting the dynamic tools and functions behind them even more!
+
+🔍 With a background in QA, I’ve developed a sharp eye for bugs — though honestly, they often find me first
+
+🧠 Always up for a challenge — in university, I didn’t know any frontend tech, so I built the UI using Unity!
+
+🚀 Constantly exploring new technologies and development tricks to improve my work
+
+🎬 Wrote a script and directed several short films with friends
+
+## 🧩 Tech Stack
+
+### 🎨 Frontend
+- HTML5, JavaScript, TypeScript, SASS
+- React, Vue, Redux Toolkit
+- Material UI, Bulma, Tailwind CSS
+- Next.js
+
+### 🛠️ Backend
+- C#
+- .NET
+- PostgreSQL
+
+### 🧰 Tools
+- Vite, Webpack
+- ESLint, Prettier
+- Git
+- Postman
+
+### 🎨 Other
+- Figma
+- Photoshop
+- Unity
+
+
+## 🔗 Let's connect!
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniiltrusov00/)
+[![telegtam](https://img.shields.io/badge/telegtam-1DA1F2?style=for-the-badge&logo=telegtam&logoColor=white)](https://t.me/johnny_dous)
+
