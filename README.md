@@ -33,5 +33,5 @@
 
 ## 🔗 Let's connect!
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniiltrusov00/)
-[![telegtam](https://img.shields.io/badge/telegtam-1DA1F2?style=for-the-badge&logo=telegtam&logoColor=white)](https://t.me/johnny_dous)
+[![telegtam](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/johnny_dous)
 
