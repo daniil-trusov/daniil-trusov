@@ -14,16 +14,19 @@
 ## 🧩 Tech Stack
 
 #### 🎨 Frontend
-- HTML5, JavaScript, TypeScript, SASS
-- React, Vue, Next.js, Redux Toolkit
-- Material UI, Bulma, Tailwind CSS
+- HTML5, CSS3/SASS
+- JavaScript (ES6+), TypeScript
+- React, Next.js, Redux Toolkit
+- Tailwind CSS, Material UI, Hero UI, Swiper
+- REST API, GraphQL
 
 #### 🛠️ Backend
+- Node.js, Express
 - C#, .NET
 - PostgreSQL
 
 #### 🧰 Tools
-- Vite, Webpack, Git, Postman
+- Vite, Webpack, Git, Docker, Postman
 - ESLint, Prettier
 
 #### 🎨 Other
